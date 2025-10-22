@@ -1,0 +1,14 @@
+wget 
+transformers 
+langchain 
+langchain-community
+langchain-classic 
+langchain-core 
+langchain-text-splitters 
+sentence-transformers 
+chromadb 
+langchain-google-genai
+gradio
+tf-keras
+uvicorn
+pypdf
